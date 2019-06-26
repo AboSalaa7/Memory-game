@@ -28,11 +28,16 @@ left: 0px;
 	top: 50%;
 }
 .joker{
+	transition-duration: 0.4s;
 	position: relative;
 	top: -89px;
     left: 0px;
 
 }
+.joker:hover{
+	box-shadow: 0 4px 8px 0 Green, 0 6px 20px 0 blue;
+}
+
 button{
 	transition-duration: 0.4s;
 	background-color: #4CAF50; /* Green */
