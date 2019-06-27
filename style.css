@@ -41,6 +41,8 @@ left: 0px;
 button{
 	transition-duration: 0.4s;
 	background-color: #4CAF50; /* Green */
+	width: 170px;
+	height: 70px;
   border: 1px solid #4CAF50;
   border-radius: 10px;
   color: white;
